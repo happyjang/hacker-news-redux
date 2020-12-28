@@ -1,4 +1,4 @@
-const NS = '@hackerNewsReader/app';
+const NS = '@hnReader/app';
 
 export const actionTypes = {
   SET_THEME: `${NS}/SET_THEME`
